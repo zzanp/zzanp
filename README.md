@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on [psp-filament](https://github.com/zzanp/psp-filament) and learning Kubernetes<br/>
+Currently working on a custom 3D game engine and a game created with it<br/>
 Willing to collaborate on some embedded projects
 
 # 💻 Tech Stack:
